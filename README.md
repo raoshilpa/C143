@@ -1,4 +1,4 @@
-# C143
+# ECE C143, Spring 2023 with Dr. Jonathan Kao
 
 Homework 4: By far the coolest so far. 
 1. Rigorously deriving machine learning model parameters [3 probabilistic models: Gaussian Normal (class agnostic covariance), Gaussian Normal (class specific covariance), Poisson].
